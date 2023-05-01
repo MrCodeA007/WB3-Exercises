@@ -15,3 +15,12 @@ function favoriteplaces() {
 favoritethings();
 whyImHere();
 favoriteplaces();
+
+
+/* function favoritethings(name, movie, musician) {
+console.log("My name is ${name}");
+console.log("Favorite movie is ${movie}");
+console.log("My favorite band is ${musician}");
+}
+
+favoritethings(`Alejandro`, `Spider-man 2`, `Gorillaz`); */
